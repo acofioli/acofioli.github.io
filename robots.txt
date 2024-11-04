@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acofioli.github.io/PQJ/sitemap_index.txt
+Sitemap: https://acofioli.github.io/aiC/sitemap_index.txt
+Sitemap: https://acofioli.github.io/bEh/sitemap_index.txt
+Sitemap: https://acofioli.github.io/eYS/sitemap_index.txt
